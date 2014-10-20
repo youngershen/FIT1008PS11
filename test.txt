@@ -1,0 +1,651 @@
+arrive at 10
+a customer has arrived and at 0 minutes after 8 am
+customer has been served at 0 minutes after 8 am
+a customer has arrived and at 5 minutes after 8 am
+customer has been served at 5 minutes after 8 am
+a customer has arrived and at 6 minutes after 8 am
+a customer has arrived and at 6 minutes after 8 am
+a customer has arrived and at 7 minutes after 8 am
+customer has been served at 7 minutes after 8 am
+customer has been served at 10 minutes after 8 am
+customer has been served at 12 minutes after 8 am
+a customer has arrived and at 15 minutes after 8 am
+a customer has arrived and at 15 minutes after 8 am
+customer has been served at 17 minutes after 8 am
+a customer has arrived and at 18 minutes after 8 am
+a customer has arrived and at 19 minutes after 8 am
+customer has been served at 19 minutes after 8 am
+customer has been served at 19 minutes after 8 am
+ a customer has left at 20 minutes after 8 am
+a customer has arrived and at 21 minutes after 8 am
+customer has been served at 22 minutes after 8 am
+a customer has arrived and at 26 minutes after 8 am
+ a customer has left at 26 minutes after 8 am
+customer has been served at 26 minutes after 8 am
+a customer has arrived and at 28 minutes after 8 am
+ a customer has left at 28 minutes after 8 am
+customer has been served at 28 minutes after 8 am
+a customer has arrived and at 29 minutes after 8 am
+customer has been served at 30 minutes after 8 am
+ a customer has left at 32 minutes after 8 am
+customer has been served at 32 minutes after 8 am
+a customer has arrived and at 34 minutes after 8 am
+a customer has arrived and at 35 minutes after 8 am
+a customer has arrived and at 35 minutes after 8 am
+a customer has arrived and at 35 minutes after 8 am
+customer has been served at 35 minutes after 8 am
+a customer has arrived and at 36 minutes after 8 am
+ a customer has left at 36 minutes after 8 am
+customer has been served at 36 minutes after 8 am
+a customer has arrived and at 37 minutes after 8 am
+customer has been served at 37 minutes after 8 am
+customer has been served at 37 minutes after 8 am
+ a customer has left at 38 minutes after 8 am
+customer has been served at 39 minutes after 8 am
+customer has been served at 39 minutes after 8 am
+ a customer has left at 41 minutes after 8 am
+ a customer has left at 41 minutes after 8 am
+a customer has arrived and at 42 minutes after 8 am
+ a customer has left at 44 minutes after 8 am
+customer has been served at 45 minutes after 8 am
+ a customer has left at 46 minutes after 8 am
+ a customer has left at 47 minutes after 8 am
+ a customer has left at 47 minutes after 8 am
+ a customer has left at 47 minutes after 8 am
+ a customer has left at 49 minutes after 8 am
+a customer has arrived and at 50 minutes after 8 am
+a customer has arrived and at 51 minutes after 8 am
+a customer has arrived and at 52 minutes after 8 am
+customer has been served at 53 minutes after 8 am
+customer has been served at 53 minutes after 8 am
+customer has been served at 54 minutes after 8 am
+ a customer has left at 54 minutes after 8 am
+ a customer has left at 55 minutes after 8 am
+ a customer has left at 56 minutes after 8 am
+ a customer has left at 56 minutes after 8 am
+ a customer has left at 57 minutes after 8 am
+ a customer has left at 57 minutes after 8 am
+a customer has arrived and at 58 minutes after 8 am
+customer has been served at 58 minutes after 8 am
+status 59 minutes after 8 am
+
+24 people are served at last our
+the max number of people  are 1 people
+
+status 59 minutes after 8 am
+
+0 people are served at last our
+the max number of people  are 0 people
+
+ a customer has left at 60 minutes after 8 am
+ a customer has left at 60 minutes after 8 am
+a customer has arrived and at 61 minutes after 8 am
+customer has been served at 62 minutes after 8 am
+ a customer has left at 64 minutes after 8 am
+a customer has arrived and at 66 minutes after 8 am
+a customer has arrived and at 66 minutes after 8 am
+customer has been served at 67 minutes after 8 am
+customer has been served at 67 minutes after 8 am
+a customer has arrived and at 68 minutes after 8 am
+a customer has arrived and at 68 minutes after 8 am
+customer has been served at 68 minutes after 8 am
+a customer has arrived and at 71 minutes after 8 am
+customer has been served at 71 minutes after 8 am
+a customer has arrived and at 72 minutes after 8 am
+ a customer has left at 72 minutes after 8 am
+customer has been served at 72 minutes after 8 am
+ a customer has left at 73 minutes after 8 am
+a customer has arrived and at 75 minutes after 8 am
+a customer has arrived and at 76 minutes after 8 am
+customer has been served at 76 minutes after 8 am
+customer has been served at 76 minutes after 8 am
+a customer has arrived and at 76 minutes after 8 am
+customer has been served at 76 minutes after 8 am
+a customer has arrived and at 77 minutes after 8 am
+customer has been served at 77 minutes after 8 am
+customer has been served at 77 minutes after 8 am
+a customer has arrived and at 78 minutes after 8 am
+a customer has arrived and at 79 minutes after 8 am
+customer has been served at 79 minutes after 8 am
+customer has been served at 81 minutes after 8 am
+a customer has arrived and at 81 minutes after 8 am
+ a customer has left at 82 minutes after 8 am
+customer has been served at 82 minutes after 8 am
+a customer has arrived and at 84 minutes after 8 am
+a customer has arrived and at 85 minutes after 8 am
+a customer has arrived and at 85 minutes after 8 am
+customer has been served at 87 minutes after 8 am
+customer has been served at 88 minutes after 8 am
+a customer has arrived and at 89 minutes after 8 am
+ a customer has left at 89 minutes after 8 am
+ a customer has left at 89 minutes after 8 am
+customer has been served at 89 minutes after 8 am
+ a customer has left at 90 minutes after 8 am
+ a customer has left at 91 minutes after 8 am
+customer has been served at 92 minutes after 8 am
+ a customer has left at 92 minutes after 8 am
+a customer has arrived and at 93 minutes after 8 am
+ a customer has left at 94 minutes after 8 am
+ a customer has left at 94 minutes after 8 am
+ a customer has left at 97 minutes after 8 am
+ a customer has left at 97 minutes after 8 am
+a customer has arrived and at 98 minutes after 8 am
+customer has been served at 98 minutes after 8 am
+customer has been served at 99 minutes after 8 am
+a customer has arrived and at 101 minutes after 8 am
+ a customer has left at 101 minutes after 8 am
+customer has been served at 102 minutes after 8 am
+ a customer has left at 103 minutes after 8 am
+a customer has arrived and at 103 minutes after 8 am
+ a customer has left at 104 minutes after 8 am
+ a customer has left at 105 minutes after 8 am
+ a customer has left at 105 minutes after 8 am
+ a customer has left at 106 minutes after 8 am
+customer has been served at 106 minutes after 8 am
+ a customer has left at 107 minutes after 8 am
+a customer has arrived and at 108 minutes after 8 am
+ a customer has left at 108 minutes after 8 am
+a customer has arrived and at 109 minutes after 8 am
+customer has been served at 109 minutes after 8 am
+customer has been served at 109 minutes after 8 am
+a customer has arrived and at 117 minutes after 8 am
+ a customer has left at 117 minutes after 8 am
+ a customer has left at 117 minutes after 8 am
+customer has been served at 121 minutes after 8 am
+a customer has arrived and at 121 minutes after 8 am
+a customer has arrived and at 122 minutes after 8 am
+ a customer has left at 122 minutes after 8 am
+customer has been served at 122 minutes after 8 am
+ a customer has left at 125 minutes after 8 am
+customer has been served at 125 minutes after 8 am
+a customer has arrived and at 129 minutes after 8 am
+a customer has arrived and at 129 minutes after 8 am
+ a customer has left at 129 minutes after 8 am
+customer has been served at 129 minutes after 8 am
+a customer has arrived and at 129 minutes after 8 am
+ a customer has left at 130 minutes after 8 am
+a customer has arrived and at 131 minutes after 8 am
+customer has been served at 131 minutes after 8 am
+customer has been served at 133 minutes after 8 am
+customer has been served at 134 minutes after 8 am
+ a customer has left at 134 minutes after 8 am
+ a customer has left at 134 minutes after 8 am
+ a customer has left at 136 minutes after 8 am
+a customer has arrived and at 136 minutes after 8 am
+ a customer has left at 138 minutes after 8 am
+customer has been served at 139 minutes after 8 am
+ a customer has left at 140 minutes after 8 am
+a customer has arrived and at 142 minutes after 8 am
+customer has been served at 143 minutes after 8 am
+a customer has arrived and at 144 minutes after 8 am
+customer has been served at 145 minutes after 8 am
+a customer has arrived and at 146 minutes after 8 am
+a customer has arrived and at 146 minutes after 8 am
+customer has been served at 147 minutes after 8 am
+a customer has arrived and at 149 minutes after 8 am
+a customer has arrived and at 150 minutes after 8 am
+customer has been served at 151 minutes after 8 am
+a customer has arrived and at 151 minutes after 8 am
+ a customer has left at 152 minutes after 8 am
+customer has been served at 152 minutes after 8 am
+customer has been served at 153 minutes after 8 am
+customer has been served at 153 minutes after 8 am
+ a customer has left at 155 minutes after 8 am
+ a customer has left at 157 minutes after 8 am
+a customer has arrived and at 158 minutes after 8 am
+ a customer has left at 159 minutes after 8 am
+a customer has arrived and at 160 minutes after 8 am
+ a customer has left at 160 minutes after 8 am
+customer has been served at 161 minutes after 8 am
+customer has been served at 163 minutes after 8 am
+a customer has arrived and at 163 minutes after 8 am
+customer has been served at 164 minutes after 8 am
+ a customer has left at 164 minutes after 8 am
+ a customer has left at 167 minutes after 8 am
+ a customer has left at 170 minutes after 8 am
+ a customer has left at 173 minutes after 8 am
+a customer has arrived and at 175 minutes after 8 am
+a customer has arrived and at 176 minutes after 8 am
+customer has been served at 176 minutes after 8 am
+customer has been served at 178 minutes after 8 am
+a customer has arrived and at 178 minutes after 8 am
+customer has been served at 178 minutes after 8 am
+ a customer has left at 179 minutes after 8 am
+status 179 minutes after 8 am
+
+45 people are served at last our
+the max number of people  are 3 people
+
+status 179 minutes after 8 am
+
+0 people are served at last our
+the max number of people  are 0 people
+
+a customer has arrived and at 182 minutes after 8 am
+ a customer has left at 183 minutes after 8 am
+ a customer has left at 184 minutes after 8 am
+customer has been served at 184 minutes after 8 am
+a customer has arrived and at 187 minutes after 8 am
+a customer has arrived and at 187 minutes after 8 am
+ a customer has left at 188 minutes after 8 am
+a customer has arrived and at 189 minutes after 8 am
+ a customer has left at 190 minutes after 8 am
+customer has been served at 190 minutes after 8 am
+a customer has arrived and at 190 minutes after 8 am
+a customer has arrived and at 191 minutes after 8 am
+customer has been served at 191 minutes after 8 am
+customer has been served at 191 minutes after 8 am
+customer has been served at 191 minutes after 8 am
+a customer has arrived and at 191 minutes after 8 am
+ a customer has left at 191 minutes after 8 am
+customer has been served at 191 minutes after 8 am
+ a customer has left at 192 minutes after 8 am
+customer has been served at 192 minutes after 8 am
+a customer has arrived and at 193 minutes after 8 am
+customer has been served at 194 minutes after 8 am
+ a customer has left at 196 minutes after 8 am
+a customer has arrived and at 196 minutes after 8 am
+ a customer has left at 197 minutes after 8 am
+customer has been served at 197 minutes after 8 am
+ a customer has left at 198 minutes after 8 am
+ a customer has left at 198 minutes after 8 am
+a customer has arrived and at 201 minutes after 8 am
+a customer has arrived and at 202 minutes after 8 am
+customer has been served at 203 minutes after 8 am
+customer has been served at 203 minutes after 8 am
+a customer has arrived and at 204 minutes after 8 am
+customer has been served at 204 minutes after 8 am
+a customer has arrived and at 206 minutes after 8 am
+a customer has arrived and at 206 minutes after 8 am
+ a customer has left at 207 minutes after 8 am
+ a customer has left at 207 minutes after 8 am
+customer has been served at 207 minutes after 8 am
+a customer has arrived and at 207 minutes after 8 am
+customer has been served at 209 minutes after 8 am
+customer has been served at 209 minutes after 8 am
+ a customer has left at 210 minutes after 8 am
+a customer has arrived and at 211 minutes after 8 am
+customer has been served at 213 minutes after 8 am
+ a customer has left at 217 minutes after 8 am
+ a customer has left at 219 minutes after 8 am
+a customer has arrived and at 219 minutes after 8 am
+customer has been served at 221 minutes after 8 am
+a customer has arrived and at 223 minutes after 8 am
+ a customer has left at 223 minutes after 8 am
+ a customer has left at 225 minutes after 8 am
+customer has been served at 225 minutes after 8 am
+ a customer has left at 228 minutes after 8 am
+ a customer has left at 228 minutes after 8 am
+ a customer has left at 230 minutes after 8 am
+a customer has arrived and at 230 minutes after 8 am
+a customer has arrived and at 230 minutes after 8 am
+a customer has arrived and at 231 minutes after 8 am
+a customer has arrived and at 231 minutes after 8 am
+customer has been served at 231 minutes after 8 am
+customer has been served at 231 minutes after 8 am
+ a customer has left at 232 minutes after 8 am
+customer has been served at 232 minutes after 8 am
+ a customer has left at 233 minutes after 8 am
+customer has been served at 233 minutes after 8 am
+a customer has arrived and at 235 minutes after 8 am
+customer has been served at 236 minutes after 8 am
+ a customer has left at 236 minutes after 8 am
+a customer has arrived and at 237 minutes after 8 am
+customer has been served at 238 minutes after 8 am
+a customer has arrived and at 242 minutes after 8 am
+ a customer has left at 242 minutes after 8 am
+ a customer has left at 242 minutes after 8 am
+a customer has arrived and at 243 minutes after 8 am
+a customer has arrived and at 244 minutes after 8 am
+customer has been served at 244 minutes after 8 am
+customer has been served at 244 minutes after 8 am
+ a customer has left at 245 minutes after 8 am
+ a customer has left at 245 minutes after 8 am
+a customer has arrived and at 246 minutes after 8 am
+customer has been served at 247 minutes after 8 am
+a customer has arrived and at 249 minutes after 8 am
+customer has been served at 249 minutes after 8 am
+a customer has arrived and at 251 minutes after 8 am
+ a customer has left at 251 minutes after 8 am
+a customer has arrived and at 253 minutes after 8 am
+ a customer has left at 253 minutes after 8 am
+customer has been served at 253 minutes after 8 am
+customer has been served at 254 minutes after 8 am
+ a customer has left at 254 minutes after 8 am
+customer has been served at 256 minutes after 8 am
+ a customer has left at 257 minutes after 8 am
+ a customer has left at 258 minutes after 8 am
+ a customer has left at 260 minutes after 8 am
+ a customer has left at 261 minutes after 8 am
+a customer has arrived and at 264 minutes after 8 am
+customer has been served at 265 minutes after 8 am
+a customer has arrived and at 268 minutes after 8 am
+a customer has arrived and at 270 minutes after 8 am
+ a customer has left at 270 minutes after 8 am
+customer has been served at 270 minutes after 8 am
+customer has been served at 270 minutes after 8 am
+ a customer has left at 270 minutes after 8 am
+a customer has arrived and at 270 minutes after 8 am
+customer has been served at 273 minutes after 8 am
+ a customer has left at 277 minutes after 8 am
+ a customer has left at 277 minutes after 8 am
+ a customer has left at 287 minutes after 8 am
+a customer has arrived and at 289 minutes after 8 am
+customer has been served at 289 minutes after 8 am
+a customer has arrived and at 292 minutes after 8 am
+customer has been served at 292 minutes after 8 am
+ a customer has left at 293 minutes after 8 am
+ a customer has left at 294 minutes after 8 am
+ a customer has left at 297 minutes after 8 am
+status 299 minutes after 8 am
+
+37 people are served at last our
+the max number of people  are 1 people
+
+a customer has arrived and at 301 minutes after 8 am
+a customer has arrived and at 301 minutes after 8 am
+a customer has arrived and at 301 minutes after 8 am
+customer has been served at 301 minutes after 8 am
+customer has been served at 302 minutes after 8 am
+a customer has arrived and at 304 minutes after 8 am
+customer has been served at 304 minutes after 8 am
+ a customer has left at 306 minutes after 8 am
+a customer has arrived and at 308 minutes after 8 am
+customer has been served at 308 minutes after 8 am
+a customer has arrived and at 309 minutes after 8 am
+ a customer has left at 309 minutes after 8 am
+customer has been served at 309 minutes after 8 am
+customer has been served at 310 minutes after 8 am
+a customer has arrived and at 311 minutes after 8 am
+customer has been served at 313 minutes after 8 am
+ a customer has left at 314 minutes after 8 am
+a customer has arrived and at 315 minutes after 8 am
+a customer has arrived and at 315 minutes after 8 am
+a customer has arrived and at 315 minutes after 8 am
+ a customer has left at 315 minutes after 8 am
+customer has been served at 317 minutes after 8 am
+a customer has arrived and at 318 minutes after 8 am
+customer has been served at 318 minutes after 8 am
+customer has been served at 318 minutes after 8 am
+ a customer has left at 318 minutes after 8 am
+ a customer has left at 320 minutes after 8 am
+a customer has arrived and at 320 minutes after 8 am
+customer has been served at 320 minutes after 8 am
+customer has been served at 321 minutes after 8 am
+ a customer has left at 323 minutes after 8 am
+ a customer has left at 326 minutes after 8 am
+ a customer has left at 327 minutes after 8 am
+a customer has arrived and at 329 minutes after 8 am
+a customer has arrived and at 329 minutes after 8 am
+customer has been served at 329 minutes after 8 am
+a customer has arrived and at 330 minutes after 8 am
+customer has been served at 330 minutes after 8 am
+customer has been served at 331 minutes after 8 am
+a customer has arrived and at 332 minutes after 8 am
+ a customer has left at 333 minutes after 8 am
+customer has been served at 334 minutes after 8 am
+a customer has arrived and at 334 minutes after 8 am
+customer has been served at 335 minutes after 8 am
+ a customer has left at 338 minutes after 8 am
+ a customer has left at 338 minutes after 8 am
+a customer has arrived and at 338 minutes after 8 am
+a customer has arrived and at 338 minutes after 8 am
+customer has been served at 339 minutes after 8 am
+customer has been served at 339 minutes after 8 am
+a customer has arrived and at 340 minutes after 8 am
+customer has been served at 342 minutes after 8 am
+ a customer has left at 343 minutes after 8 am
+ a customer has left at 345 minutes after 8 am
+ a customer has left at 346 minutes after 8 am
+ a customer has left at 351 minutes after 8 am
+ a customer has left at 352 minutes after 8 am
+a customer has arrived and at 352 minutes after 8 am
+ a customer has left at 353 minutes after 8 am
+customer has been served at 355 minutes after 8 am
+a customer has arrived and at 357 minutes after 8 am
+ a customer has left at 357 minutes after 8 am
+customer has been served at 359 minutes after 8 am
+ a customer has left at 361 minutes after 8 am
+a customer has arrived and at 363 minutes after 8 am
+customer has been served at 363 minutes after 8 am
+a customer has arrived and at 366 minutes after 8 am
+ a customer has left at 366 minutes after 8 am
+a customer has arrived and at 368 minutes after 8 am
+customer has been served at 369 minutes after 8 am
+customer has been served at 370 minutes after 8 am
+a customer has arrived and at 370 minutes after 8 am
+a customer has arrived and at 371 minutes after 8 am
+a customer has arrived and at 372 minutes after 8 am
+ a customer has left at 373 minutes after 8 am
+customer has been served at 373 minutes after 8 am
+customer has been served at 374 minutes after 8 am
+a customer has arrived and at 375 minutes after 8 am
+customer has been served at 375 minutes after 8 am
+ a customer has left at 375 minutes after 8 am
+a customer has arrived and at 375 minutes after 8 am
+a customer has arrived and at 375 minutes after 8 am
+customer has been served at 375 minutes after 8 am
+customer has been served at 375 minutes after 8 am
+ a customer has left at 377 minutes after 8 am
+ a customer has left at 380 minutes after 8 am
+customer has been served at 380 minutes after 8 am
+ a customer has left at 381 minutes after 8 am
+a customer has arrived and at 382 minutes after 8 am
+ a customer has left at 383 minutes after 8 am
+ a customer has left at 384 minutes after 8 am
+customer has been served at 385 minutes after 8 am
+ a customer has left at 387 minutes after 8 am
+ a customer has left at 387 minutes after 8 am
+a customer has arrived and at 388 minutes after 8 am
+ a customer has left at 389 minutes after 8 am
+a customer has arrived and at 389 minutes after 8 am
+ a customer has left at 390 minutes after 8 am
+customer has been served at 390 minutes after 8 am
+customer has been served at 392 minutes after 8 am
+ a customer has left at 392 minutes after 8 am
+a customer has arrived and at 395 minutes after 8 am
+a customer has arrived and at 395 minutes after 8 am
+customer has been served at 396 minutes after 8 am
+a customer has arrived and at 397 minutes after 8 am
+a customer has arrived and at 397 minutes after 8 am
+a customer has arrived and at 398 minutes after 8 am
+customer has been served at 399 minutes after 8 am
+customer has been served at 399 minutes after 8 am
+customer has been served at 399 minutes after 8 am
+customer has been served at 399 minutes after 8 am
+ a customer has left at 400 minutes after 8 am
+ a customer has left at 400 minutes after 8 am
+ a customer has left at 400 minutes after 8 am
+a customer has arrived and at 402 minutes after 8 am
+customer has been served at 402 minutes after 8 am
+ a customer has left at 403 minutes after 8 am
+a customer has arrived and at 408 minutes after 8 am
+ a customer has left at 409 minutes after 8 am
+customer has been served at 410 minutes after 8 am
+ a customer has left at 411 minutes after 8 am
+ a customer has left at 414 minutes after 8 am
+ a customer has left at 414 minutes after 8 am
+status 419 minutes after 8 am
+
+41 people are served at last our
+the max number of people  are 1 people
+
+status 419 minutes after 8 am
+
+0 people are served at last our
+the max number of people  are 0 people
+
+status 419 minutes after 8 am
+
+0 people are served at last our
+the max number of people  are 0 people
+
+a customer has arrived and at 424 minutes after 8 am
+a customer has arrived and at 425 minutes after 8 am
+a customer has arrived and at 427 minutes after 8 am
+customer has been served at 427 minutes after 8 am
+customer has been served at 427 minutes after 8 am
+a customer has arrived and at 430 minutes after 8 am
+customer has been served at 430 minutes after 8 am
+a customer has arrived and at 432 minutes after 8 am
+a customer has arrived and at 435 minutes after 8 am
+customer has been served at 435 minutes after 8 am
+customer has been served at 435 minutes after 8 am
+customer has been served at 437 minutes after 8 am
+a customer has arrived and at 437 minutes after 8 am
+a customer has arrived and at 439 minutes after 8 am
+a customer has arrived and at 440 minutes after 8 am
+a customer has arrived and at 440 minutes after 8 am
+customer has been served at 440 minutes after 8 am
+a customer has arrived and at 440 minutes after 8 am
+ a customer has left at 441 minutes after 8 am
+ a customer has left at 442 minutes after 8 am
+customer has been served at 443 minutes after 8 am
+customer has been served at 444 minutes after 8 am
+customer has been served at 444 minutes after 8 am
+customer has been served at 445 minutes after 8 am
+ a customer has left at 445 minutes after 8 am
+ a customer has left at 445 minutes after 8 am
+a customer has arrived and at 446 minutes after 8 am
+ a customer has left at 447 minutes after 8 am
+a customer has arrived and at 449 minutes after 8 am
+customer has been served at 451 minutes after 8 am
+customer has been served at 452 minutes after 8 am
+ a customer has left at 456 minutes after 8 am
+ a customer has left at 457 minutes after 8 am
+ a customer has left at 459 minutes after 8 am
+ a customer has left at 460 minutes after 8 am
+ a customer has left at 462 minutes after 8 am
+ a customer has left at 464 minutes after 8 am
+ a customer has left at 465 minutes after 8 am
+ a customer has left at 470 minutes after 8 am
+a customer has arrived and at 480 minutes after 8 am
+customer has been served at 482 minutes after 8 am
+ a customer has left at 482 minutes after 8 am
+a customer has arrived and at 483 minutes after 8 am
+a customer has arrived and at 483 minutes after 8 am
+customer has been served at 485 minutes after 8 am
+customer has been served at 485 minutes after 8 am
+a customer has arrived and at 488 minutes after 8 am
+a customer has arrived and at 488 minutes after 8 am
+customer has been served at 488 minutes after 8 am
+customer has been served at 491 minutes after 8 am
+ a customer has left at 491 minutes after 8 am
+ a customer has left at 493 minutes after 8 am
+ a customer has left at 494 minutes after 8 am
+ a customer has left at 502 minutes after 8 am
+a customer has arrived and at 502 minutes after 8 am
+a customer has arrived and at 503 minutes after 8 am
+customer has been served at 503 minutes after 8 am
+a customer has arrived and at 505 minutes after 8 am
+a customer has arrived and at 506 minutes after 8 am
+customer has been served at 506 minutes after 8 am
+customer has been served at 507 minutes after 8 am
+customer has been served at 508 minutes after 8 am
+ a customer has left at 509 minutes after 8 am
+ a customer has left at 510 minutes after 8 am
+a customer has arrived and at 511 minutes after 8 am
+a customer has arrived and at 511 minutes after 8 am
+customer has been served at 511 minutes after 8 am
+a customer has arrived and at 512 minutes after 8 am
+ a customer has left at 513 minutes after 8 am
+customer has been served at 514 minutes after 8 am
+customer has been served at 515 minutes after 8 am
+ a customer has left at 521 minutes after 8 am
+ a customer has left at 526 minutes after 8 am
+a customer has arrived and at 526 minutes after 8 am
+ a customer has left at 527 minutes after 8 am
+customer has been served at 527 minutes after 8 am
+a customer has arrived and at 527 minutes after 8 am
+a customer has arrived and at 527 minutes after 8 am
+ a customer has left at 529 minutes after 8 am
+customer has been served at 529 minutes after 8 am
+customer has been served at 530 minutes after 8 am
+a customer has arrived and at 536 minutes after 8 am
+a customer has arrived and at 539 minutes after 8 am
+status 539 minutes after 8 am
+
+30 people are served at last our
+the max number of people  are 1 people
+
+ a customer has left at 540 minutes after 8 am
+customer has been served at 540 minutes after 8 am
+customer has been served at 541 minutes after 8 am
+a customer has arrived and at 542 minutes after 8 am
+ a customer has left at 542 minutes after 8 am
+a customer has arrived and at 543 minutes after 8 am
+a customer has arrived and at 545 minutes after 8 am
+a customer has arrived and at 545 minutes after 8 am
+customer has been served at 545 minutes after 8 am
+customer has been served at 545 minutes after 8 am
+customer has been served at 545 minutes after 8 am
+a customer has arrived and at 546 minutes after 8 am
+customer has been served at 546 minutes after 8 am
+a customer has arrived and at 547 minutes after 8 am
+customer has been served at 548 minutes after 8 am
+ a customer has left at 548 minutes after 8 am
+a customer has arrived and at 549 minutes after 8 am
+a customer has arrived and at 550 minutes after 8 am
+customer has been served at 551 minutes after 8 am
+a customer has arrived and at 552 minutes after 8 am
+customer has been served at 552 minutes after 8 am
+customer has been served at 552 minutes after 8 am
+ a customer has left at 553 minutes after 8 am
+customer has been served at 553 minutes after 8 am
+ a customer has left at 553 minutes after 8 am
+ a customer has left at 554 minutes after 8 am
+a customer has arrived and at 555 minutes after 8 am
+a customer has arrived and at 555 minutes after 8 am
+customer has been served at 556 minutes after 8 am
+ a customer has left at 557 minutes after 8 am
+customer has been served at 557 minutes after 8 am
+ a customer has left at 558 minutes after 8 am
+a customer has arrived and at 562 minutes after 8 am
+ a customer has left at 563 minutes after 8 am
+a customer has arrived and at 564 minutes after 8 am
+customer has been served at 565 minutes after 8 am
+customer has been served at 565 minutes after 8 am
+ a customer has left at 565 minutes after 8 am
+ a customer has left at 565 minutes after 8 am
+a customer has arrived and at 567 minutes after 8 am
+ a customer has left at 569 minutes after 8 am
+ a customer has left at 570 minutes after 8 am
+a customer has arrived and at 571 minutes after 8 am
+a customer has arrived and at 572 minutes after 8 am
+customer has been served at 572 minutes after 8 am
+ a customer has left at 573 minutes after 8 am
+ a customer has left at 574 minutes after 8 am
+customer has been served at 575 minutes after 8 am
+customer has been served at 576 minutes after 8 am
+ a customer has left at 579 minutes after 8 am
+a customer has arrived and at 581 minutes after 8 am
+ a customer has left at 581 minutes after 8 am
+a customer has arrived and at 583 minutes after 8 am
+customer has been served at 583 minutes after 8 am
+ a customer has left at 584 minutes after 8 am
+a customer has arrived and at 584 minutes after 8 am
+customer has been served at 584 minutes after 8 am
+customer has been served at 586 minutes after 8 am
+ a customer has left at 587 minutes after 8 am
+ a customer has left at 588 minutes after 8 am
+a customer has arrived and at 590 minutes after 8 am
+ a customer has left at 592 minutes after 8 am
+a customer has arrived and at 592 minutes after 8 am
+customer has been served at 593 minutes after 8 am
+ a customer has left at 594 minutes after 8 am
+customer has been served at 595 minutes after 8 am
+ a customer has left at 595 minutes after 8 am
+a customer has arrived and at 597 minutes after 8 am
+customer has been served at 597 minutes after 8 am
+a customer has arrived and at 598 minutes after 8 am
+status 599 minutes after 8 am
+
+23 people are served at last our
+the max number of people  are 2 people
+
+customer has been served at 599 minutes after 8 am
+ a customer has left at 603 minutes after 8 am
+ a customer has left at 610 minutes after 8 am
+ a customer has left at 615 minutes after 8 am
+ a customer has left at 617 minutes after 8 am
+ a customer has left at 626 minutes after 8 am
